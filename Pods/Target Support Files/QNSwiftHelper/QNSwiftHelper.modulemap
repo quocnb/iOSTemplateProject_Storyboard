@@ -1,0 +1,6 @@
+framework module QNSwiftHelper {
+  umbrella header "QNSwiftHelper-umbrella.h"
+
+  export *
+  module * { export * }
+}

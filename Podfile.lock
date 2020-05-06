@@ -1,0 +1,28 @@
+PODS:
+  - FBRetainCycleDetector (0.1.4)
+  - MLeaksFinder (1.0.0):
+    - FBRetainCycleDetector
+  - QNSwiftHelper (1.0.0)
+  - SwiftLint (0.39.2)
+
+DEPENDENCIES:
+  - MLeaksFinder
+  - QNSwiftHelper
+  - SwiftLint
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - FBRetainCycleDetector
+    - MLeaksFinder
+    - QNSwiftHelper
+    - SwiftLint
+
+SPEC CHECKSUMS:
+  FBRetainCycleDetector: 46f8179bbb1c587deee3ea838a1a3ee02acf5015
+  MLeaksFinder: 8c435bd2f6d070af18cff082b503b21adc130fc0
+  QNSwiftHelper: 64aa4c51b635d680e320bd3a685163ff3df134f1
+  SwiftLint: 22ccbbe3b8008684be5955693bab135e0ed6a447
+
+PODFILE CHECKSUM: 859094751bf7b21ef28a125772afbd6103ffbe55
+
+COCOAPODS: 1.9.1
